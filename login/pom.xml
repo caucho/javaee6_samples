@@ -87,7 +87,7 @@
 							<directory>src/main/webapp</directory>
 							<includes>
 								<include>WEB-INF/classes/**</include>
-								<include>WEB-INF/lib/**</include>
+								<!-- <include>WEB-INF/lib/**</include>  -->
 								<include>WEB-INF/logging.properties</include>
 							</includes>
 							<followSymlinks>false</followSymlinks>
